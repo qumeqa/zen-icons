@@ -25,3 +25,4 @@ New icons for the toolbar and better locale button. I did it in one evening, so 
 - Translations
 - Translations (loading)
 - Site data
+- Nav bar overflow
