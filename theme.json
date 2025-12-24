@@ -1,0 +1,25 @@
+{
+  "id": "new-icons",
+  "homepage": "https://github.com/qumeqa/zen-icons",
+  "author": "qumeqa",
+  "name": "New icons",
+  "description": "New icons for the toolbar and better locale button",
+  "version": "1.0",
+  "style": {
+    "chrome": "https://raw.githubusercontent.com/qumeqa/zen-icons/refs/heads/main/userChrome.css"
+  },
+  "readme": "https://raw.githubusercontent.com/qumeqa/zen-icons/refs/heads/main/README.md",
+  "image": "https://raw.githubusercontent.com/qumeqa/zen-icons/refs/heads/main/photo/cover.png",
+  "tags": [
+    "Icons",
+    "New icons",
+    "Toolbar",
+    "Toolbar icons",
+    "Icon pack",
+    "Icon set",
+    "Locale button"
+  ],
+  "fork": [
+    "zen"
+  ]
+}
