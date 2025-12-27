@@ -1,5 +1,5 @@
 # New toolbar icons
-New icons for the toolbar and better locale button. I did it in one evening, so it will still be updated. Enjoy using it😏 Write to me if you want me to change any icons that you want
+New icons for the toolbar and better locale button. I did it in one evening, so it will still be updated. Enjoy using it😏 Let me know if you want me to change any icons
 
 ### Before
 <img src="photo/1.png" width="100%">
