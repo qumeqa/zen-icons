@@ -2,7 +2,7 @@
 New icons for the toolbar and better locale button. Enjoy using it!
 
 ### Before
-<img src="photo/1.png" width="100%">
+<img src="https://raw.githubusercontent.com/qumeqa/zen-icons/refs/heads/main/photo/1.png" width="100%">
 
 ### After
 <img src="photo/2.png" width="100%">
