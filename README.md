@@ -5,10 +5,10 @@ New icons for the toolbar and better locale button. Enjoy using it!
 <img src="https://raw.githubusercontent.com/qumeqa/zen-icons/refs/heads/main/photo/1.png" width="100%">
 
 ### After
-<img src="photo/2.png" width="100%">
+<img src="https://raw.githubusercontent.com/qumeqa/zen-icons/refs/heads/main/photo/2.png" width="100%">
 
 ### All changed icons
-<img src="photo/3.png" width="100%">
+<img src="https://raw.githubusercontent.com/qumeqa/zen-icons/refs/heads/main/photo/3.png" width="100%">
 
 ### List of changed icons
 - Toggle compact mode
