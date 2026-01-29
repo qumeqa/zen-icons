@@ -1,16 +1,16 @@
-# New toolbar icons
-New icons for the toolbar and better locale button. Enjoy using it!
+# New icons
+New icons for the toolbar, popups, site data panel, and better locale button
 
 ### Before
-<img src="https://raw.githubusercontent.com/qumeqa/zen-icons/refs/heads/main/photo/1.png" width="100%">
+<img src="https://raw.githubusercontent.com/qumeqa/zen-icons/refs/heads/main/photo/1.jpg" width="100%">
 
 ### After
-<img src="https://raw.githubusercontent.com/qumeqa/zen-icons/refs/heads/main/photo/2.png" width="100%">
+<img src="https://raw.githubusercontent.com/qumeqa/zen-icons/refs/heads/main/photo/2.jpg" width="100%">
 
 ### All changed icons
-<img src="https://raw.githubusercontent.com/qumeqa/zen-icons/refs/heads/main/photo/3.png" width="100%">
+<img src="https://raw.githubusercontent.com/qumeqa/zen-icons/refs/heads/main/photo/3.jpg" width="100%">
 
-### List of changed icons
+<!-- ### List of changed icons
 - Toggle compact mode
 - Back
 - Forward
@@ -26,4 +26,4 @@ New icons for the toolbar and better locale button. Enjoy using it!
 - Translations (loading)
 - Site data
 - Nav bar overflow
-- Sync
+- Sync -->
