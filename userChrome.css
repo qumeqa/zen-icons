@@ -81,6 +81,7 @@
 
 #translations-button {
   gap: 1px !important;
+  height: 100% !important;
   padding: 0 var(--urlbar-icon-padding) !important;
   margin: 0 calc(-1 * var(--urlbar-icon-padding) / 2) !important;
 }
